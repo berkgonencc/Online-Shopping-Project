@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MiniShopAPI.Persistence
-build_property.ProjectDir = C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\
+build_property.ProjectDir = c:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\
