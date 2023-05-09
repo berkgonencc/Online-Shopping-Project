@@ -1,0 +1,17 @@
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Infrastructure.deps.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Infrastructure.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Infrastructure.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Application.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Application.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.csproj.CopyComplete
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\refint\MiniShopAPI.Infrastructure.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\MiniShopAPI.Infrastructure.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Infrastructure\obj\Debug\net6.0\ref\MiniShopAPI.Infrastructure.dll

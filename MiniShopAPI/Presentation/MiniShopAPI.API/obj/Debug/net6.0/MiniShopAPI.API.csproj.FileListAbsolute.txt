@@ -1,0 +1,132 @@
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.exe
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.deps.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.runtimeconfig.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Application.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Application.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.AssemblyReference.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.AssemblyInfoInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.AssemblyInfo.cs
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.MiniShopAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MiniShopAPI.API.props
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiniShopAPI.API.props
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiniShopAPI.API.props
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\scopedcss\bundle\MiniShopAPI.API.styles.css
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.CopyComplete
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\refint\MiniShopAPI.API.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.genruntimeconfig.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\ref\MiniShopAPI.API.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.exe
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.deps.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.runtimeconfig.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.API.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Application.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Application.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.AssemblyReference.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.AssemblyInfoInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.AssemblyInfo.cs
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.MiniShopAPI.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.build.MiniShopAPI.API.props
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MiniShopAPI.API.props
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiniShopAPI.API.props
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\scopedcss\bundle\MiniShopAPI.API.styles.css
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.csproj.CopyComplete
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\refint\MiniShopAPI.API.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\MiniShopAPI.API.genruntimeconfig.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Presentation\MiniShopAPI.API\obj\Debug\net6.0\ref\MiniShopAPI.API.dll

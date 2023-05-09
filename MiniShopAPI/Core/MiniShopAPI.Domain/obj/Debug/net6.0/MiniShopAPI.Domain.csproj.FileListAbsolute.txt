@@ -1,0 +1,24 @@
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.deps.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.AssemblyInfo.cs
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\refint\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\ref\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.deps.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.AssemblyInfo.cs
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\refint\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Core\MiniShopAPI.Domain\obj\Debug\net6.0\ref\MiniShopAPI.Domain.dll

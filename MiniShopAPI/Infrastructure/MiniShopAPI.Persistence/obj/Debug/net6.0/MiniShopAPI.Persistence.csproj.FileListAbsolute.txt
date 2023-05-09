@@ -1,0 +1,38 @@
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.deps.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Application.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Application.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.AssemblyInfo.cs
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.CopyComplete
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\refint\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\ref\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.runtimeconfig.json
+C:\Users\ipeks\Desktop\MiniShop with Angular\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.genruntimeconfig.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.deps.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.runtimeconfig.json
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Application.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Domain.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Application.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\bin\Debug\net6.0\MiniShopAPI.Domain.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.AssemblyInfo.cs
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.csproj.CopyComplete
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\refint\MiniShopAPI.Persistence.dll
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.pdb
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\MiniShopAPI.Persistence.genruntimeconfig.cache
+C:\Users\ipeks\Documents\GitHub\Online-Shopping-Project\MiniShopAPI\Infrastructure\MiniShopAPI.Persistence\obj\Debug\net6.0\ref\MiniShopAPI.Persistence.dll

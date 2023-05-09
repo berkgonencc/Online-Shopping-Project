@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MiniShopAPI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MiniShopAPI.Application": "1.0.0"
+        },
+        "runtime": {
+          "MiniShopAPI.Infrastructure.dll": {}
+        }
+      },
+      "MiniShopAPI.Application/1.0.0": {
+        "dependencies": {
+          "MiniShopAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MiniShopAPI.Application.dll": {}
+        }
+      },
+      "MiniShopAPI.Domain/1.0.0": {
+        "runtime": {
+          "MiniShopAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiniShopAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniShopAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiniShopAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
