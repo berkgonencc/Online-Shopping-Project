@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-declare var alertify: any;
 
 @Component({
   selector: 'app-layout',
@@ -8,8 +7,10 @@ declare var alertify: any;
 })
 
 export class LayoutComponent implements OnInit {
+  constructor() {
+
+  }
   ngOnInit(): void {
-    alertify.success("Success");
   }
 
 }
