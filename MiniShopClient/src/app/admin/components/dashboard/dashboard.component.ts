@@ -15,7 +15,11 @@ export class DashboardComponent implements OnInit {
   }
   m() {
 
-    this.alertify.message("Welcome", MessageType.Notify, Position.BottomCenter, 5)
+    this.alertify.message("Welcome", {
+      messageType: MessageType.Success,
+      delay: 5,
+      position: Position.BottomRight
+    })
   }
   d() {
     this.alertify.dismiss()
